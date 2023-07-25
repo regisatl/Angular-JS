@@ -151,7 +151,7 @@ Cela affichera le message de bienvenue dans votre application.
 
 Il est important de noter que les directives personnalisées sont l'une des fonctionnalités les plus puissantes d'AngularJS, car elles permettent de créer des composants réutilisables et de construire une architecture modulaire pour votre application. Avec les directives personnalisées, vous pouvez encapsuler la logique et l'apparence d'un composant dans une seule entité, ce qui facilite la réutilisation et la maintenance du code.
 
-Bien sûr ! Voici la liste des principales interfaces de cycle de vie d'un composant dans Angular (versions 2.0 et supérieures), ainsi que leurs définitions et des exemples pour chacune d'entre elles :
+Voici la liste des principales interfaces de cycle de vie d'un composant dans Angular (versions 2.0 et supérieures), ainsi que leurs définitions et des exemples pour chacune d'entre elles :
 
 Il y a une confusion dans votre question. La directive `ngOnInit` n'est pas une directive native d'AngularJS, mais plutôt une interface de cycle de vie d'un composant dans Angular (versions 2.0 et supérieures). AngularJS et Angular (versions 2.0+) sont deux frameworks différents avec des concepts et des API distincts. Angular (aussi appelé Angular 2+) est une refonte complète d'AngularJS (Angular 1.x).
 
